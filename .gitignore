@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.db
+debug_screenshot.png
+debug_content.html
+error_log.txt
+scanner_debug.txt
+scanner_debug_2.txt
+scanner_output*.txt
+vulnerability_report.json
+.env
+venv/
